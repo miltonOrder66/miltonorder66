@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Milton Lima
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Milton
+last_name: Lima
 
 # Status emoji
 status:
@@ -20,27 +20,27 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Cyber Threat Intelligence Lead Researcher at CISSA/CESAR
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CESAR
+    url: https://www.cesar.org.br/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:mvml@cesar.org.br'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/miltonOrder66
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/milton-lima-a0599487/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -52,16 +52,18 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Cyber Security
+    institution: Universidade Federal de Pernambuco
+    date_start: 2018-03-01
+    date_end: 2022-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Proactive adaptation of microservice-based applications. Supervised by [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one Springer journal, one Elsevier journal and one IEEE conference. The computer science program ranks among the top seven most esteemed programs in Brazil
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+      url: 'https://repositorio.ufpe.br/bitstream/123456789/49188/1/TESE%20%20Milton%20Vinicius%20Morais%20de%20Lima.pdf'
+
+
+  - area: MEng in CyberSecurity
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
